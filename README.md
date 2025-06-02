@@ -22,4 +22,6 @@ https://www.mouser.co.uk/ProductDetail/Bourns/PTA6043-2015CPB102?qs=QARuOjD9jaE%
 
 1 x 3D Printed Case ~ £5
 
+1 x Protoboard ~ £1
+
 Total found on attached spreadsheet.
