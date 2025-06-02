@@ -24,6 +24,6 @@ PCB:
 
 Schematic:
 
-![image](https://github.com/user-attachments/assets/8cd29458-dbec-4270-ad91-7e2be576a85d)
+![image](https://github.com/user-attachments/assets/611897cb-d52a-4e6c-931f-49b8770946b4)
 
 The only component not on the pcb is the arduino micro as no footprint exists and I don't trust myself to make a correct one.
