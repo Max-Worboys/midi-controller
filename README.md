@@ -12,8 +12,8 @@ Inspired by my love for music and DJing I have decided to design a midi controll
 
 64 x DSA Keycaps ~ £15
 
-4 x 75mm Sliding Potentiometer ~ £10
+4 x 75mm Sliding Potentiometer ~ £8
 
-https://www.mouser.co.uk/ProductDetail/Bourns/PTA6043-2015CIB103?qs=5aG0NVq1C4xZo3tBqXD9Kg%3D%3D
+https://www.mouser.co.uk/ProductDetail/Bourns/PTA6043-2015CPB102?qs=QARuOjD9jaE%2Fe2Egjl3azg%3D%3D
 
 1 x 3D Printed Case ~ £5
