@@ -12,4 +12,12 @@ Designed as PCB to house the 64 buttons:
 
 ![image](https://github.com/user-attachments/assets/485d65af-4fc8-461f-91d4-634d26412d45)
 
-All other components are going to be housed on protoboards as kicad doesn't have footprints for them as not only it will make it easier to fit them into the 3d printed housing but also make it easier to solder.
+Some other components may be housed on protoboards as kicad doesn't have footprints for them.
+
+# June 1st 19:00 to 21:00
+
+Finalised PCB Design
+
+![image](https://github.com/user-attachments/assets/3f36cc6e-e690-4221-8b38-333b14fea154)
+
+The only component not on the pcb is the arduino micro as no footprint exists and I don't trust myself to make a correct one.
