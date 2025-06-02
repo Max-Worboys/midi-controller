@@ -4,14 +4,14 @@ Inspired by my love for music and DJing I have decided to design a midi controll
 
 
 # Parts List:
-1 x Arduino Micro
+1 x Arduino Micro ~ £25
 
-4 x CD74HC4067 Multiplexor
+4 x CD74HC4067 Multiplexor ~ £6
 
-64 x MX Style Switches
+64 x MX Style Switches ~ £20
 
-64 x DSA Keycaps
+64 x DSA Keycaps ~ £15
 
-4 x 75mm Sliding Potentiometer
+4 x 75mm Sliding Potentiometer ~ £3
 
-1 x 3D Printed Case
+1 x 3D Printed Case ~ £5
