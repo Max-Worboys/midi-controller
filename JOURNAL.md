@@ -18,6 +18,12 @@ Some other components may be housed on protoboards as kicad doesn't have footpri
 
 Finalised PCB Design
 
+PCB:
+
 ![image](https://github.com/user-attachments/assets/3f36cc6e-e690-4221-8b38-333b14fea154)
+
+Schematic:
+
+![image](https://github.com/user-attachments/assets/8cd29458-dbec-4270-ad91-7e2be576a85d)
 
 The only component not on the pcb is the arduino micro as no footprint exists and I don't trust myself to make a correct one.
