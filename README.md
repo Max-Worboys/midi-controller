@@ -14,9 +14,11 @@ https://www.mouser.co.uk/ProductDetail/Texas-Instruments/CD74HC4067SM96?qs=JHHQe
 
 64 x MX Style Switches ~ £20
 
-https://www.aliexpress.com/item/1005007666281901.html?spm=a2g0o.detail.pcDetailTopMoreOtherSeller.3.15b2ffbpffbpQr&gps-id=pcDetailTopMoreOtherSeller&scm=1007.40050.354490.0&scm_id=1007.40050.354490.0&scm-url=1007.40050.354490.0&pvid=6975e0f3-1121-4f1c-81ad-e60518b9e9bc&_t=gps-id:pcDetailTopMoreOtherSeller,scm-url:1007.40050.354490.0,pvid:6975e0f3-1121-4f1c-81ad-e60518b9e9bc,tpp_buckets:668%232846%238113%231998&pdp_ext_f=%7B%22order%22%3A%22639%22%2C%22eval%22%3A%221%22%2C%22sceneId%22%3A%2230050%22%7D&pdp_npi=4%40dis%21GBP%2120.79%219.81%21%21%21196.33%2192.61%21%40210391a017488907685536671ee1e1%2112000041752234916%21rec%21UK%21%21ABX&utparam-url=scene%3ApcDetailTopMoreOtherSeller%7Cquery_from%3A
+https://www.aliexpress.com/item/1005006382662041.html?pdp_npi=4%40dis%21GBP%21%EF%BF%A125.56%21%EF%BF%A19.59%21%21%21241.37%2190.54%21%40211b6c4f17488912764963285e85c5%2112000037152574435%21sh%21UK%210%21X&spm=a2g0o.store_pc_home.allitems_choice_2007222966108.1005006382662041
 
-64 x DSA Keycaps ~ £15
+64 x DSA Keycaps ~ £16
+
+https://www.aliexpress.com/item/1005002976015114.html?algo_pvid=3dea6ef6-3e92-4b08-98d0-38158447194a&algo_exp_id=3dea6ef6-3e92-4b08-98d0-38158447194a-0&pdp_ext_f=%7B%22order%22%3A%22175%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21GBP%212.37%211.99%21%21%213.10%212.60%21%40211b61bb17488909333205227ec640%2112000023033844979%21sea%21UK%210%21ABX&curPageLogUid=2NgDAeSoIyT6&utparam-url=scene%3Asearch%7Cquery_from%3A
 
 4 x 75mm Sliding Potentiometer ~ £8
 
