@@ -16,7 +16,7 @@ Some other components may be housed on protoboards as kicad doesn't have footpri
 
 # June 1st 19:00 to 21:00
 
-Finalised PCB Design
+Finalised PCB Design.
 
 PCB:
 
@@ -27,3 +27,9 @@ Schematic:
 ![image](https://github.com/user-attachments/assets/611897cb-d52a-4e6c-931f-49b8770946b4)
 
 The only component not on the pcb is the arduino micro as no footprint exists and I don't trust myself to make a correct one.
+
+# June 2nd 19:00 to 21:00
+
+Designed housing for the PCB in Fusion 360.
+
+The main PCB sits 10 mm down from the top of the case and above the arduino which has a dedicated place at the back of the casing.
