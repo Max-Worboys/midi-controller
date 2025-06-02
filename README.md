@@ -4,7 +4,9 @@ Inspired by my love for music and DJing I have decided to design a midi controll
 
 
 # Parts List:
-1 x Arduino Micro ~ £25
+1 x Arduino Micro ~ £18
+
+https://www.mouser.co.uk/ProductDetail/Arduino/A000053?qs=JYLCs0CWXI3I8GwvoSCg5g%3D%3D
 
 4 x CD74HC4067 Multiplexor ~ £6
 
