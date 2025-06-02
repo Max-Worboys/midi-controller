@@ -3,7 +3,8 @@
 # May 31st 10:00 to 12:00
 
 Started researching components required to build a 8x8 pad with faders.
-Component list can be found in the readme.
+
+Complete component list can be found in the readme.
 
 # June 1st 14:00 to 16:00
 
