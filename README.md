@@ -20,4 +20,4 @@ Inspired by my love for music and DJing I have decided to design a midi controll
 
 1 x Protoboard ~ £1
 
-Pricing found on attached spreadsheet.
+More accurate pricing and total can be found in assets.
