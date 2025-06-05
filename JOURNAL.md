@@ -40,7 +40,7 @@ Each connection to the switch was painfull to draw in as Kicad's path generation
 
 ## Designed the 3d printed housing
 
-The main PCB sits 10 mm down from the top of the case and above the arduino which has a dedicated place at the back of the casing.
+I designed the casing in fusion 360 (eww ik i'm sorry).  It is 213x224x28mm and has a +0.2mm tolerance around the circuit board.  The main PCB sits on the top platform approximately 10mm down from the top plate which has holes for the switches / keycpas as well as spaces for the sliding potentiometers.  There is a spot for the protoboard which holds the macropad at a lower level to the main PCB with the same +0.2mm tolerance.  The entire unit takes around 6 hours to print and uses 260g of filament.  I am going to use PLA to print the casing on my Bambu Lab P1S as it doesn't need to be particularly strong and I already have loads of it.
 
 ![image](https://github.com/user-attachments/assets/2f52a91e-b8e0-4546-a23b-dd07ee309175)
 
