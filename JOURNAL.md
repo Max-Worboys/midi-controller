@@ -8,11 +8,11 @@ Inspired by the launchpad by novatio I decided to recreate it for myself with a 
 
 # June 1st 14:00 to 16:00
 
-Designed as PCB to house the 64 buttons:
+I plan to only use a cutom pcb to house the 8x8 grid of switches as not every component I plan to use has a footprint on kicad the software I am using to design the PCB.  The switches are spaced into 20x20mm squares to make desiging the casing easier and have the ground wire built into the pcb to save on unessecary soldering.
 
 ![image](https://github.com/user-attachments/assets/485d65af-4fc8-461f-91d4-634d26412d45)
 
-Some other components may be housed on protoboards as kicad doesn't have footprints for them.
+The other components will be housed on protoboards as previously mentioned kicad doesn't have footprints for them.  Each component will have an individual protoboard wich will slot into a dedicated space in the 3d printed casing with space for the wires to run beneath them.
 
 # June 1st 19:00 to 21:00
 
