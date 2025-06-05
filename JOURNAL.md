@@ -8,7 +8,7 @@ Inspired by the launchpad by novatio I decided to recreate it for myself with a 
 
 # June 1st 14:00 to 16:00
 
-## Desiging PCB ###(V1)
+## Started designing PCB
 
 I plan to only use a cutom pcb to house the 8x8 grid of switches as not every component I plan to use has a footprint on kicad the software I am using to design the PCB.  The switches are spaced into 20x20mm squares to make desiging the casing easier and have the ground wire built into the pcb to save on unessecary soldering.
 
@@ -17,6 +17,8 @@ I plan to only use a cutom pcb to house the 8x8 grid of switches as not every co
 The other components will be housed on protoboards as previously mentioned kicad doesn't have footprints for them.  Each component will have an individual protoboard wich will slot into a dedicated space in the 3d printed casing with space for the wires to run beneath them.
 
 # June 1st 18:00 to 23:00
+
+## Finalised PCB
 
 After much scouring of the internet and slightly changing the components I plan to use I decided to instead of only having a custom PCB for the switches to have a PCB which houses all of the componets except the Arduino Micro as I didn't find a sutible footprint and don't feel confident enough to design my own.  The PCB has dedicated soldering holes for all of the wires that need to go to the PCB in the top left corner of the board. The Arduino Micro will sit on a protoboard below the main PCB this increase the hight of the casing but it will make the internal wiring easier to manage.  All of the switches have their own individual connection to the multiplexer which then has 5 connections to the PCB 4 shared 1 individual.
 
@@ -34,6 +36,6 @@ Each connection to the switch was painfull to draw in as Kicad's path generation
 
 # June 2nd 19:00 to 21:00
 
-Designed housing for the PCB in Fusion 360.
+## Designed the 3d printed housing
 
 The main PCB sits 10 mm down from the top of the case and above the arduino which has a dedicated place at the back of the casing.
