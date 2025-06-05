@@ -1,3 +1,5 @@
+# Time Spent 4 + 2 + 5 + 2 = 13
+
 ## MIDI Controller
 
 # May 31st 10:00 to 14:00
