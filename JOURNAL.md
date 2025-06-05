@@ -41,3 +41,6 @@ Each connection to the switch was painfull to draw in as Kicad's path generation
 ## Designed the 3d printed housing
 
 The main PCB sits 10 mm down from the top of the case and above the arduino which has a dedicated place at the back of the casing.
+
+![image](https://github.com/user-attachments/assets/2f52a91e-b8e0-4546-a23b-dd07ee309175)
+
