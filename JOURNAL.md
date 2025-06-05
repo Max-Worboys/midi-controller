@@ -14,19 +14,21 @@ I plan to only use a cutom pcb to house the 8x8 grid of switches as not every co
 
 The other components will be housed on protoboards as previously mentioned kicad doesn't have footprints for them.  Each component will have an individual protoboard wich will slot into a dedicated space in the 3d printed casing with space for the wires to run beneath them.
 
-# June 1st 19:00 to 21:00
+# June 1st 18:00 to 23:00
 
-Finalised PCB Design.
-
-PCB:
-
-![image](https://github.com/user-attachments/assets/3f36cc6e-e690-4221-8b38-333b14fea154)
+After much scouring of the internet and slightly changing the components I plan to use I decided to instead of only having a custom PCB for the switches to have a PCB which houses all of the componets except the Arduino Micro as I didn't find a sutible footprint and don't feel confident enough to design my own.  The PCB has dedicated soldering holes for all of the wires that need to go to the PCB in the top left corner of the board. The Arduino Micro will sit on a protoboard below the main PCB this increase the hight of the casing but it will make the internal wiring easier to manage.  All of the switches have their own individual connection to the multiplexer which then has 5 connections to the PCB 4 shared 1 individual.
 
 Schematic:
 
 ![image](https://github.com/user-attachments/assets/611897cb-d52a-4e6c-931f-49b8770946b4)
 
-The only component not on the pcb is the arduino micro as no footprint exists and I don't trust myself to make a correct one.
+The Arduino is shown in the schematic as I created a component symbol for it based on the pinout diagram provided by the Arduino website.
+
+PCB:
+
+![image](https://github.com/user-attachments/assets/3f36cc6e-e690-4221-8b38-333b14fea154)
+
+Each connection to the switch was painfull to draw in as Kicad's path generation constantly blocked the path of the other connections, I originally attempted to make the PCB one sided as to be quite frankly honest I didn't know how to make the tracks be on the other side of the board, I quickly learned how after consulting the genius who is gigicat who ridiculled me for the suffering I put myself through.
 
 # June 2nd 19:00 to 21:00
 
