@@ -36,7 +36,7 @@ PCB:
 
 Each connection to the switch was painfull to draw in as Kicad's path generation constantly blocked the path of the other connections, I originally attempted to make the PCB one sided as to be quite frankly honest I didn't know how to make the tracks be on the other side of the board, I quickly learned how after consulting the genius who is gigicat who ridiculled me for the suffering I put myself through.
 
-# June 2nd 19:00 to 21:00
+# June 5nd 19:00 to 21:00
 
 ## Designed the 3d printed housing
 
