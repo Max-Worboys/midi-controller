@@ -1,10 +1,10 @@
 ## MIDI Controller
 
-# May 31st 10:00 to 12:00
+# May 31st 10:00 to 14:00
 
-Started researching components required to build a 8x8 pad with faders.
+## Picking parts and deciding on a design
 
-Complete component list can be found in the readme.
+Inspired by the launchpad by novatio I decided to recreate it for myself with a few additional features.  The original launchpad has a 9x9 grid of buttons including an 8x8 grid of touch capacitive ones.  The outer buttons control functions of the software while the inner buttons act like a traditional beatpad.  For my recreation I am going to make an 8x8 grid of keyboard style switches as these are easier to source and a bank of four faders for additional control over my software (Serato DJ Pro).  To be able to interact with this software it needs to be able to output midi signals and for the faders to work the board I am going to use will need analouge pins.  To forfill these demands I have decided to use an **arduino micro**.  Additionally as the board doen't have enough pins to support all 64 switches I have decided to use the **CD74HC4067SM96** Multiplexer by texas instruments.
 
 # June 1st 14:00 to 16:00
 
