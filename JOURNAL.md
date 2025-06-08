@@ -1,4 +1,4 @@
-# Time Spent 4 + 2 + 5 + 2 = 13
+# Time Spent 4 + 2 + 5 + 2 + 0.5 = 13.5
 
 ## MIDI Controller
 
