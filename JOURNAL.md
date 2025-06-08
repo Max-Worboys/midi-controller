@@ -1,4 +1,4 @@
-# Time Spent 4 + 2 + 5 + 2 + 0.5 = 13.5
+# Time Spent 4 + 2 + 5 + 2 + 1 = 14
 
 ## MIDI Controller
 
@@ -44,9 +44,16 @@ I designed the casing in fusion 360 (eww ik i'm sorry).  It is 213x224x28mm and 
 
 ![image](https://github.com/user-attachments/assets/2f52a91e-b8e0-4546-a23b-dd07ee309175)
 
-# June 8th 19:00 to 19:30
+# June 8th 19:00 to 20:00
 ## Made some changes to the pcb
 
 After looking at the feedback other people have recieved on their project I have added a ground plane, still not entirely sure what it does but it is there, I rounded the corners beacuse that makes it nicer?, and I added some artwork!
 
 ![image](https://github.com/user-attachments/assets/ac83f835-de08-4cd5-ac21-11cae833fd8d)
+
+## Updated the casing
+
+I have chamfered all of the edges of the casing to improve the asthetics of the model, I have also added scew holes so the lid can be saftely attached to the base.
+
+![image](https://github.com/user-attachments/assets/9644392f-d454-4877-af9b-b9d59091b1f6)
+
