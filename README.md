@@ -4,11 +4,11 @@ Inspired by my love for music and DJing I have decided to design a midi controll
 
 
 # Parts List:
-1 x PCB ~ £20
+1 x PCB ~ £50
 
-1 x Arduino Micro ~ £18
+1 x Arduino Micro ~ £20
 
-4 x CD74HC4067SM96 Multiplexer ~ £2
+4 x CD74HC4067SM96 Multiplexer ~ Included im PCB
 
 64 x MX Style Switches ~ £20
 
