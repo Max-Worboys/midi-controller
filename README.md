@@ -8,7 +8,7 @@ Inspired by my love for music and DJing I have decided to design a midi controll
 
 1 x Arduino Micro ~ £20
 
-4 x CD74HC4067SM96 Multiplexer ~ Included im PCB
+4 x CD74HC4067SM96 Multiplexer ~ Included in PCB
 
 64 x MX Style Switches ~ £20
 
