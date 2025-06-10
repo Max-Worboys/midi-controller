@@ -4,7 +4,7 @@ Inspired by my love for music and DJing I have decided to design a midi controll
 
 
 # Parts List:
-1 x PCB ~ £50
+1 x PCB ~ $64
 
 1 x Arduino Micro ~ £20
 
