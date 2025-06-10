@@ -16,8 +16,6 @@ Inspired by my love for music and DJing I have decided to design a midi controll
 
 4 x 75mm Sliding Potentiometer ~ £8
 
-1 x 3D Printed Case ~ £5
-
 1 x Protoboard ~ £1
 
 More accurate pricing and total can be found in assets.
