@@ -49,7 +49,7 @@ I designed the casing in fusion 360 (eww ik i'm sorry).  It is 213x224x28mm and 
 
 After looking at the feedback other people have recieved on their project I have added a ground plane, still not entirely sure what it does but it is there, I rounded the corners beacuse that makes it nicer?, and I added some artwork!
 
-![image](https://github.com/user-attachments/assets/ac83f835-de08-4cd5-ac21-11cae833fd8d)
+![image](https://github.com/user-attachments/assets/a432a00c-fbd9-45ab-a405-9575f9553f37)
 
 ## Updated the casing
 
