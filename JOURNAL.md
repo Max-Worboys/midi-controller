@@ -1,4 +1,4 @@
-# Time Spent 4 + 2 + 5 + 2 + 1 = 14
+# Time Spent 4 + 2 + 5 + 2 + 1 + 10 = 24
 
 ## MIDI Controller
 
@@ -57,3 +57,7 @@ I have chamfered all of the edges of the casing to improve the asthetics of the 
 
 ![image](https://github.com/user-attachments/assets/9644392f-d454-4877-af9b-b9d59091b1f6)
 
+# June 19 - June 26 ~ 10 Hours
+## Coding
+
+Over this period I coded the firmware for the midi pad.  There are probably mistakes but I will only be able to figure them out when it is assembled and doesn't work.
