@@ -1,22 +1,17 @@
 ## MIDI Controller
 # About
-Inspired by my love for music and DJing I have decided to design a midi controller to enhance the software I use.
+Inspired by my love for music and DJing I have decided to design a midi controller to enhance the software I use.  The controller has 64 buttons and 4 faders and is controlled by an arduino style pro micro with 4 multiplexers.
 
 
 # Parts List:
-1 x PCB ~ $88
-
-1 x Arduino Pro Micro (Clone) ~ £1
-
-4 x CD74HC4067SM96 Multiplexer ~ Included in PCB
-
-64 x MX Style Switches ~ £20
-
-64 x DSA Keycaps ~ £16
-
-4 x 75mm Sliding Potentiometer ~ £8
-
-1 x Protoboard ~ £1
+Part | Quantity | Price
+PCB | 1 | £60
+Pro Micro | 1 | £1
+Multiplexer | 4 | Included in pcb
+Switches | 64 | £20
+Keycaps | 64 | £16
+Potentiometer | 4 | £8
+Protoboard | 1 | £1
 
 More accurate pricing and total can be found in assets.
 
