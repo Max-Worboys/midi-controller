@@ -2,6 +2,9 @@
 # About
 Inspired by my love for music and DJing I have decided to design a midi controller to enhance the software I use.  The controller has 64 buttons and 4 faders and is controlled by an arduino style pro micro with 4 multiplexers.
 
+# Wiring Diagram
+
+![Untitled](https://github.com/user-attachments/assets/42288dad-320a-47ef-9ec0-357e2a3b83e4)
 
 # BOM
 
