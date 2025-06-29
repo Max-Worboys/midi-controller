@@ -10,17 +10,7 @@ Inspired by my love for music and DJing I have decided to design a midi controll
 | PCB | 1 | £60 |
 | Pro Micro | 1 | £1 |
 | Multiplexer | 4 | Inclueded in PCB |
-
-
-Part | Quantity | Price
-PCB | 1 | £60
-Pro Micro | 1 | £1
-Multiplexer | 4 | Included in pcb
-Switches | 64 | £20
-Keycaps | 64 | £16
-Potentiometer | 4 | £8
-Protoboard | 1 | £1
-
-More accurate pricing and total can be found in assets.
-
-![output](https://github.com/user-attachments/assets/0167bb74-ed05-4769-9610-35a7e62954c4)
+| Switches | 64 | £20 |
+| Keycaps | 64 | £16 |
+| Potentiometer | 4 | £8 |
+| Protoboard | 1 | £1 |
