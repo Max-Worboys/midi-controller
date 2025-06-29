@@ -4,6 +4,14 @@ Inspired by my love for music and DJing I have decided to design a midi controll
 
 
 # Parts List:
+
+| Part    | Quantity | Price |
+| -------- | ------- | ------- |
+| PCB | 1 | £60 |
+| Pro Micro | 1 | £1 |
+| Multiplexer | 4 | Inclueded in PCB |
+
+
 Part | Quantity | Price
 PCB | 1 | £60
 Pro Micro | 1 | £1
