@@ -18,7 +18,7 @@ Inspired by my love for music and DJing I have decided to design a midi controll
 
 | Part    | Quantity | Price |
 | -------- | ------- | ------- |
-| PCB | 1 | £55 |
+| PCBA | 1 | £55 |
 | Pro Micro | 1 | £1 |
 | Multiplexer | 4 | Inclueded in PCB |
 | Switches | 64 | £20 |
