@@ -60,4 +60,6 @@ I have chamfered all of the edges of the casing to improve the asthetics of the 
 # June 19 - June 26 ~ 10 Hours
 ## Coding
 
+I did a bit of a stupid and did it all locally so sorry for the lack of commit history
+
 Over this period I coded the firmware for the midi pad.  There are probably mistakes but I will only be able to figure them out when it is assembled and doesn't work.
